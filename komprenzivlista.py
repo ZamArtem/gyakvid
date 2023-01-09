@@ -1,4 +1,6 @@
 # list = [expression for item in iterable]
+# list = [expression for item in iterable if conditio]
+# list = [expression if/else for items in iterable]
 #           komprenziv lista
 """
 squares = []                    # create a list
