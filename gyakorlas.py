@@ -1,4 +1,4 @@
-#irst_name = "pityu"
+#first_name = "pityu"
 #last_name = "szek"
 #full_name = first_name + last_name
 #print(type(name))
